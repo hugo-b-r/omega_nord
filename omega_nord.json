@@ -54,7 +54,7 @@
       "Keyword": "81a1c1",
       "Operator": "88c0d0",
       "String": "a3be8c",
-      "GutterViewBackground": "E4E6E7"
+      "GutterViewBackground": "2e3440"
     },
     "Probability": {
       "Curve": "8fbcbb",
@@ -124,10 +124,10 @@
       "Background": "2e3440",
       "CellBackground": "2e3440",
       "CellBackgroundActive": "434c5e",
-      "CellText": "eceff4",
-      "CellTextActive": "2e3440",
-      "CellTextExternal": "008f87",
-      "CellTextExternalActive": "6fe6df"
+      "CellText": "4c566a",
+      "CellTextActive": "eceff4",
+      "CellTextExternal": "4c566a",
+      "CellTextExternalActive": "eceff4"
     },
     "Atom": {
       "Unknown": "eeeeee",
