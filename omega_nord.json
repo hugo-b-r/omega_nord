@@ -54,7 +54,7 @@
       "Keyword": "81a1c1",
       "Operator": "88c0d0",
       "String": "a3be8c",
-      "GutterViewBackground": "2e3440"
+      "GutterViewBackground": "242933"
     },
     "Probability": {
       "Curve": "8fbcbb",
@@ -124,9 +124,9 @@
       "Background": "2e3440",
       "CellBackground": "2e3440",
       "CellBackgroundActive": "434c5e",
-      "CellText": "4c566a",
+      "CellText": "d8dee9",
       "CellTextActive": "eceff4",
-      "CellTextExternal": "4c566a",
+      "CellTextExternal": "d8dee9",
       "CellTextExternalActive": "eceff4"
     },
     "Atom": {
