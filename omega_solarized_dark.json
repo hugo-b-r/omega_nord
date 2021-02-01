@@ -1,0 +1,148 @@
+{
+	"name": "Solarized Dark",
+	"icons": "omega_solarized_darker",
+	"colors": {
+		"PrimaryText": "839496",
+		"SecondaryText": "859900",
+		"AccentText": "859900",
+		"ApproximateSignText": "839496",
+		"ApproximateExpressionText": "839496",
+		"Background": {
+			"Hard": "002B36",
+			"Apps": "002B36",
+			"AppsSecondary": "073642"
+		},
+		"Toolbar": {
+			"": "073642",
+			"Text": "859900"
+		},
+		"ExpressionInput": {
+			"Background": "073642",
+			"Border": "859900"
+		},
+		"Grid": {
+			"PrimaryLine": "4c566a",
+			"SecondaryLine": "073642"
+		},
+		"Battery": {
+			"": "ffffff",
+			"InCharge": "859900",
+			"Low": "DC322F"
+		},
+		"ScrollBar": {
+			"Foreground": "B58900",
+			"Background": "839496"
+		},
+		"Control": {
+			"": "a3be8c",
+			"Enabled": "8fbcbb",
+			"Disabled": "4c566a"
+		},
+		"Calculation": {
+			"BackgroundOdd": "859900",
+			"BackgroundEven": "002B36",
+			"EmptyBox": "4c566a",
+			"EmptyBoxNeeded": "8fbcbb",
+			"TrigoAndComplexForeground": "ff000c"
+		},
+		"Code": {
+			"Background": "002B36",
+			"BackgroundSelected": "4c566a",
+			"Text": "839496",
+			"Comment": "839496",
+			"Number": "D33682",
+			"Keyword": "859900",
+			"Operator": "839496",
+			"String": "a3be8c",
+			"GutterViewBackground": "073642"
+		},
+		"Probability": {
+			"Curve": "8fbcbb",
+			"CellBorder": "002B36",
+			"HistogramBar": "4c566a"
+		},
+		"Statistics": {
+			"Box": "8fbcbb",
+			"BoxVerticalLine": "4c566a",
+			"Selected": "8fbcbb",
+			"NotSelected": "073642"
+		},
+		"Graph": {
+			"Tangent": "4c566a"
+		},
+		"SubMenu": {
+			"Background": "859900",
+			"Border": "859900",
+			"Text": "000000"
+		},
+		"Toolbox": {
+			"HeaderBackground": "4c566a",
+			"HeaderText": "e5e9f0",
+			"HeaderBorder": "859900",
+			"Background": "002B36"
+		},
+		"List": {
+			"CellBackground": "002B36",
+			"CellBackgroundSelected": "073642",
+			"CellBorder": "859900"
+		},
+		"Button": {
+			"Background": "002B36",
+			"BackgroundSelected": "073642",
+			"BackgroundSelectedHighContrast": "073642",
+			"Border": "268BD2",
+			"RowBorder": "073642",
+			"BorderOut": "002B36",
+			"Shadow": "268BD2",
+			"Text": "839496"
+		},
+		"Tab": {
+			"Background": "002B36",
+			"BackgroundSelected": "859900",
+			"BackgroundActive": "839496",
+			"BackgroundSelectedAndActive": "859900",
+			"Text": "000000",
+			"TextActive": "000000"
+		},
+		"SubTab": {
+			"Background": "002B36",
+			"BackgroundSelected": "859900",
+			"Text": "839496"
+		},
+		"Banner": {
+			"FirstBackground": "002B36",
+			"FirstBorder": "859900",
+			"FirstText": "000000",
+			"FirstVariantBackground": "859900",
+			"FirstVariantBorder": "859900",
+			"FirstVariantText": "000000",
+			"SecondBackground": "002B36",
+			"SecondBorder": "859900",
+			"SecondText": "000000"
+		},
+		"Home": {
+			"Background": "002B36",
+			"CellBackground": "002B36",
+			"CellBackgroundActive": "073642",
+			"CellText": "d8dee9",
+			"CellTextActive": "CB4B16",
+			"CellTextExternal": "d8dee9",
+			"CellTextExternalActive": "CB4B16"
+		},
+		"Atom": {
+			"Unknown": "eeeeee",
+			"Text": "002B36",
+			"AlkaliMetal": "ffaa00",
+			"AlkaliEarthMetal": "f6f200",
+			"Lanthanide": "ffaa8b",
+			"Actinide": "deaacd",
+			"TransitionMetal": "de999c",
+			"PostTransitionMetal": "9cbaac",
+			"Metalloid": "52ce8b",
+			"Halogen": "00debd",
+			"ReactiveNonmetal": "00ee00",
+			"NobleGas": "8baaff",
+			"TableLines": "323532"
+		}
+	}
+}

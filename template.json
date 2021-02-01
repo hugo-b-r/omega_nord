@@ -1,0 +1,148 @@
+{
+	"name": "",
+	"icons": "",
+	"colors": {
+		"PrimaryText": "",
+		"SecondaryText": "",
+		"AccentText": "",
+		"ApproximateSignText": "",
+		"ApproximateExpressionText": "",
+		"Background": {
+			"Hard": "",
+			"Apps": "",
+			"AppsSecondary": ""
+		},
+		"Toolbar": {
+			"": "",
+			"Text": ""
+		},
+		"ExpressionInput": {
+			"Background": "",
+			"Border": ""
+		},
+		"Grid": {
+			"PrimaryLine": "",
+			"SecondaryLine": ""
+		},
+		"Battery": {
+			"": "",
+			"InCharge": "",
+			"Low": ""
+		},
+		"ScrollBar": {
+			"Foreground": "",
+			"Background": ""
+		},
+		"Control": {
+			"": "",
+			"Enabled": "",
+			"Disabled": ""
+		},
+		"Calculation": {
+			"BackgroundOdd": "",
+			"BackgroundEven": "",
+			"EmptyBox": "",
+			"EmptyBoxNeeded": "",
+			"TrigoAndComplexForeground": ""
+		},
+		"Code": {
+			"Background": "",
+			"BackgroundSelected": "",
+			"Text": "",
+			"Comment": "",
+			"Number": "",
+			"Keyword": "",
+			"Operator": "",
+			"String": "",
+			"GutterViewBackground": ""
+		},
+		"Probability": {
+			"Curve": "",
+			"CellBorder": "",
+			"HistogramBar": ""
+		},
+		"Statistics": {
+			"Box": "",
+			"BoxVerticalLine": "",
+			"Selected": "",
+			"NotSelected": ""
+		},
+		"Graph": {
+			"Tangent": ""
+		},
+		"SubMenu": {
+			"Background": "",
+			"Border": "",
+			"Text": ""
+		},
+		"Toolbox": {
+			"HeaderBackground": "",
+			"HeaderText": "",
+			"HeaderBorder": "",
+			"Background": ""
+		},
+		"List": {
+			"CellBackground": "",
+			"CellBackgroundSelected": "",
+			"CellBorder": ""
+		},
+		"Button": {
+			"Background": "",
+			"BackgroundSelected": "",
+			"BackgroundSelectedHighContrast": "",
+			"Border": "",
+			"RowBorder": "",
+			"BorderOut": "",
+			"Shadow": "",
+			"Text": ""
+		},
+		"Tab": {
+			"Background": "",
+			"BackgroundSelected": "",
+			"BackgroundActive": "",
+			"BackgroundSelectedAndActive": "",
+			"Text": "",
+			"TextActive": ""
+		},
+		"SubTab": {
+			"Background": "",
+			"BackgroundSelected": "",
+			"Text": ""
+		},
+		"Banner": {
+			"FirstBackground": "",
+			"FirstBorder": "",
+			"FirstText": "",
+			"FirstVariantBackground": "",
+			"FirstVariantBorder": "",
+			"FirstVariantText": "",
+			"SecondBackground": "",
+			"SecondBorder": "",
+			"SecondText": ""
+		},
+		"Home": {
+			"Background": "",
+			"CellBackground": "",
+			"CellBackgroundActive": "",
+			"CellText": "",
+			"CellTextActive": "",
+			"CellTextExternal": "",
+			"CellTextExternalActive": ""
+		},
+		"Atom": {
+			"Unknown": "",
+			"Text": "",
+			"AlkaliMetal": "",
+			"AlkaliEarthMetal": "",
+			"Lanthanide": "",
+			"Actinide": "",
+			"TransitionMetal": "",
+			"PostTransitionMetal": "",
+			"Metalloid": "",
+			"Halogen": "",
+			"ReactiveNonmetal": "",
+			"NobleGas": "",
+			"TableLines": ""
+		}
+	}
+}
