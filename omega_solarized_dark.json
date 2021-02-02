@@ -14,7 +14,7 @@
 		},
 		"Toolbar": {
 			"": "073642",
-			"Text": "859900"
+			"Text": "B58900"
 		},
 		"ExpressionInput": {
 			"Background": "073642",
@@ -71,20 +71,20 @@
 			"Tangent": "4c566a"
 		},
 		"SubMenu": {
-			"Background": "859900",
-			"Border": "839496",
-			"Text": "000000"
+			"Background": "073642",
+			"Border": "002B36",
+			"Text": "268BD2"
 		},
 		"Toolbox": {
-			"HeaderBackground": "4c566a",
-			"HeaderText": "e5e9f0",
-			"HeaderBorder": "859900",
-			"Background": "002B36"
+			"HeaderBackground": "073642",
+			"HeaderText": "268BD2",
+			"HeaderBorder": "586E75",
+			"Background": "073642"
 		},
 		"List": {
 			"CellBackground": "002B36",
 			"CellBackgroundSelected": "073642",
-			"CellBorder": "859900"
+			"CellBorder": "073642"
 		},
 		"Button": {
 			"Background": "002B36",
