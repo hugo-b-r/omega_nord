@@ -4,7 +4,7 @@
   "colors": {
     "PrimaryText": "eceff4",
     "SecondaryText": "81a1c1",
-    "AccentText": "81a1c1",
+    "AccentText": "9370DB",
     "ApproximateSignText": "5e81ac",
     "ApproximateExpressionText": "5e81ac",
     "Background": {
@@ -13,7 +13,7 @@
       "AppsSecondary": "434c5e"
     },
     "Toolbar": {
-      "": "3b4252",
+      "": "9370DB",
       "Text": "d8dee9"
     },
     "ExpressionInput": {
@@ -34,7 +34,7 @@
       "Background": "5e81ac"
     },
     "Control": {
-      "": "a3be8c",
+      "": "9370DB",
       "Enabled": "8fbcbb",
       "Disabled": "4c566a"
     },
@@ -57,7 +57,7 @@
       "GutterViewBackground": "242933"
     },
     "Probability": {
-      "Curve": "8fbcbb",
+      "Curve": "9370DB",
       "CellBorder": "2e3440",
       "HistogramBar": "4c566a"
     },
