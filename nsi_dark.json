@@ -1,6 +1,6 @@
 {
-  "name": "Nord",
-  "icons": "omega_nord",
+  "name": "nsi_dark",
+  "icons": "nsi_dark",
   "colors": {
     "PrimaryText": "eceff4",
     "SecondaryText": "81a1c1",
