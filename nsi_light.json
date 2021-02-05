@@ -13,7 +13,7 @@
       "AppsSecondary": "f0f0f0"
     },
     "Toolbar": {
-      "": "2e62af",
+      "": "9370DB",
       "Text": "ffffff"
     },
     "ExpressionInput": {
@@ -34,8 +34,8 @@
       "Background": "d9d9d9"
     },
     "Control": {
-      "": "af2e2e",
-      "Enabled": "d13232",
+      "": "9370DB",
+      "Enabled": "8465c4",
       "Disabled": "9e9e9e"
     },
     "Calculation": {
@@ -57,7 +57,7 @@
       "GutterViewBackground": "E4E6E7"
     },
     "Probability": {
-      "Curve": "a81928",
+      "Curve": "9370DB",
       "CellBorder": "ececec",
       "HistogramBar": "d9d9d9"
     },
