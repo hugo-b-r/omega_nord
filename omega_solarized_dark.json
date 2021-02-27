@@ -25,7 +25,7 @@
 			"SecondaryLine": "073642"
 		},
 		"Battery": {
-			"": "ffffff",
+			"": "eee8d5",
 			"InCharge": "859900",
 			"Low": "DC322F"
 		},
@@ -130,19 +130,19 @@
 			"CellTextExternalActive": "CB4B16"
 		},
 		"Atom": {
-			"Unknown": "eeeeee",
+			"Unknown": "eee8d5",
 			"Text": "002B36",
-			"AlkaliMetal": "ffaa00",
-			"AlkaliEarthMetal": "f6f200",
-			"Lanthanide": "ffaa8b",
-			"Actinide": "deaacd",
-			"TransitionMetal": "de999c",
-			"PostTransitionMetal": "9cbaac",
-			"Metalloid": "52ce8b",
-			"Halogen": "00debd",
-			"ReactiveNonmetal": "00ee00",
-			"NobleGas": "8baaff",
-			"TableLines": "323532"
+			"AlkaliMetal": "cb4b16",
+			"AlkaliEarthMetal": "b58900",
+			"Lanthanide": "268bd2",
+			"Actinide": "d33682",
+			"TransitionMetal": "dc322f",
+			"PostTransitionMetal": "d03fe0",
+			"Metalloid": "00ba63",
+			"Halogen": "2aa198",
+			"ReactiveNonmetal": "859900",
+			"NobleGas": "6c71c4",
+			"TableLines": "002B36"
 		}
 	}
 }
