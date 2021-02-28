@@ -18,7 +18,7 @@
 		},
 		"ExpressionInput": {
 			"Background": "073642",
-			"Border": "859900"
+			"Border": "073642"
 		},
 		"Grid": {
 			"PrimaryLine": "4c566a",
@@ -98,7 +98,7 @@
 		},
 		"Tab": {
 			"Background": "002B36",
-			"BackgroundSelected": "859900",
+			"BackgroundSelected": "ff0037",
 			"BackgroundActive": "839496",
 			"BackgroundSelectedAndActive": "859900",
 			"Text": "000000",
